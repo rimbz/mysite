@@ -15,56 +15,56 @@ const data = [
     id:1,
     image:IMG1,
     title:'ECommerce Web Application (Mern Stack)',
-    github:"https://github.com/RimaBzch/",
+    github:"https://github.com/RimaBzch/ElstoreEcommerceWebApp",
     demo:"https://www.youtube.com/watch?v=9kZhMsg8ZoM&t=1s"
   },
   {
     id:2,
     image:IMG2,
     title:'Meal Delivery App (Spring Boot,Angular, MongoDb)',
-    github:"https://github.com/RimaBzch/",
+    github:"https://github.com/RimaBzch/orderingfood",
     demo:"https://www.youtube.com/watch?v=c963H-JElSM&t=16s"
   },
   {
     id:3,
     image:IMG3,
     title:'Gottex Frontend WebSite (React Js Typescript)',
-    github:"https://github.com/RimaBzch/",
+    github:"https://github.com/RimaBzch/gtx",
     demo:"https://youtu.be/UsAIu-QYpjE"
   },
   {
     id:4,
     image:IMG4,
     title:'IFixYourTech WebSite (React Js Typescript) ',
-    github:"https://github.com/RimaBzch/",
+    github:"https://github.com/RimaBzch/ifx2",
     demo:"https://www.youtube.com/watch?v=fZYDBxBj-W4"
   },
   {
     id:5,
     image:IMG5,
     title:' Crud Application ( Symfony )',
-    github:"https://github.com/RimaBzch/",
+    github:"https://github.com/RimaBzch/gamepalyers",
     demo:"https://www.youtube.com/watch?v=B8VuRhEhi2Q"
   },
   {
     id:6,
     image:IMG6,
     title:'Company Responsive WebSite (Html, Css)',
-    github:"https://github.com/RimaBzch/",
+    github:"https://github.com/RimaBzch/ifx",
     demo:"https://www.youtube.com/watch?v=lZJXH20iUxE&t=1s"
   },
   {
     id:7,
     image:IMG7,
     title:'TicTacToe(Spring Boot)',
-    github:"https://github.com/RimaBzch/TicTacToeGame",
+    github:"https://github.com/RimaBzch/TicTacToe",
     demo:"https://www.youtube.com/shorts/EvA4FNSA5UY"
   },
   {
     id:8,
     image:IMG8,
     title:'Students Mangement Application',
-    github:"https://github.com/RimaBzch/",
+    github:"https://github.com/RimaBzch/smapp",
     demo:"https://www.youtube.com/watch?v=-bdF2mMKdnk"
   },
   {
